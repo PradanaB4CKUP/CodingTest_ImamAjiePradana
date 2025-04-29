@@ -96,5 +96,7 @@ psycopg2-binary
 python-dotenv
 pandas
 ```
-
+## Error Database
+jika masih terdapat error terutama error koneksi database
+maka buatkan lerlebih dahulu database 'aduan_db' di postgresSql. kemudian jalankan kembali
 
